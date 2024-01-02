@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUUezm/3BGKYgB7fiWTrkpm/kCCk0rRSuevMr0G4MblNQFLfF8WPz52BDJx7W9BgBNGxd7Ou3YQAOjVZkoBzRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dedzec\\Documents\\ProjectsVS\\MaterialSkinCards\\MaterialSkinCards\\MaterialSkinCards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dedzec\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\Dedzec\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
